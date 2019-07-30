@@ -2,7 +2,7 @@
 // @name         Testing extension
 // @namespace    www.testingtest.com
 // @version      1.0.0
-// @homepage	 www.testingtest.com
+// @homepageURL	 www.testingtest.com
 // @description  Testing test
 // @author       TheHasagi
 // @match        https://*.youtube.com/*
