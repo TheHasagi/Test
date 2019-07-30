@@ -1,0 +1,9 @@
+!
+! Title: Test DNS filter
+! Homepage: https://github.com/TheHasagi/Test/Test.txt
+! License: free
+! Last modified: 2019-07-30 16:51:39
+! Description: Test DNS filter
+
+||example.org^
+0.0.0.0 google.com
